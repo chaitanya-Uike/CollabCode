@@ -49,6 +49,7 @@ function mouseDragged() {
 
     // if slider is open close it
     sliderContainer.style.display = ""
+    strokeSizeSelecterOpen = false
 }
 
 function mouseReleased() {
